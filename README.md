@@ -2,7 +2,7 @@
 
 ## Description
 
-Have you ever felt like your room is more organized than your Downloads folder? This python program solves that issue!
+Have you ever felt like your room is more organized than your Downloads folder? This Python program solves that issue!
 
 Credit to GeeksForGeeks for guiding me along with the creation of this project: https://www.geeksforgeeks.org/automatically-organize-downloads-folder-in-python/
 
