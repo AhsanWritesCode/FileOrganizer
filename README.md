@@ -4,7 +4,7 @@
 
 Have you ever felt like your room is more organized than your Downloads folder? This python program solves that issue!
 
-Credit to GeeksForGeeks for guiding me along with the creation of this project. 
+Credit to GeeksForGeeks for guiding me along with the creation of this project: https://www.geeksforgeeks.org/automatically-organize-downloads-folder-in-python/
 
 Beyond the base line, I've also made it to where the program doesn't get tripped up by periods in file names and have made it so the user can input any folder they'd like to organize, not just the hard-coded downloads folder.
 
